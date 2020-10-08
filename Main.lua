@@ -129,7 +129,7 @@ HubText.BackgroundTransparency = 1.000
 HubText.Position = UDim2.new(0.560763836, 0, 0.99444443, 0)
 HubText.Size = UDim2.new(0, 36, 0, 30)
 HubText.Font = Enum.Font.Gotham
-HubText.Text = "Hub made by fykap#0559"
+HubText.Text = "Hub"
 HubText.TextColor3 = Color3.fromRGB(37, 212, 94)
 HubText.TextSize = 20.000
 
